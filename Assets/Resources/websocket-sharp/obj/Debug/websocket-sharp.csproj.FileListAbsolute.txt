@@ -1,0 +1,2 @@
+/Users/Kenshin/Desktop/TcpServer/websocket-sharp/websocket-sharp/obj/Debug/websocket-sharp.csprojAssemblyReference.cache
+/Users/Kenshin/Desktop/TcpServer/websocket-sharp/websocket-sharp/obj/Debug/websocket-sharp.csproj.CoreCompileInputs.cache
